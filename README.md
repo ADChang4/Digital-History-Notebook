@@ -13,9 +13,9 @@ After creating the repository, clone it to your local computer. Open the README.
 Once the content is in the file, you will need to push it back to GitHub.
 Report Status (These questions need to be answered for part of your grade):
 1.1: What command did you use to bring the repository to your local machine?
-Answer:
+Answer: git clone
 1.2: What was your first commit message to push this file to GitHub?
-Answer:
+Answer: "assignment"
 Assignment 2: The Founding Visionaries
 Now, let's begin documenting the pioneers of our field. You will create files for two key figures.
 Instructions:
@@ -29,9 +29,9 @@ Use git commit -m "Added pioneers Ada and Alan" to save these changes to your lo
 Finally, use git push to publish your work to GitHub.
 Report Status:
 2.1: What two file names did you create?
-Answer:
+Answer: [Ada Lovelace](/Digital-History-Notebook/ada-lovelace.md)   [Alan Turing](Digital-History-Notebook/alan-turing.md)
 2.2: What was your commit message?
-Answer:
+Answer: Added pioneers Ada and Alan
 Assignment 3: A Timeline of the Internet
 To celebrate the interconnected world of computing, you will create a timeline of key events in the internet's history. You will do this by editing your README.md file directly on GitHub.
 Instructions:

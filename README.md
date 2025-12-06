@@ -44,7 +44,7 @@ Return to your local machine's terminal.
 Use git pull to retrieve the timeline you created from your remote repository.
 Report Status:
 3.1: What command did you use to retrieve the new information from GitHub?
-Answer:
+Answer: 
 Assignment 4: The Modern Era
 Now, let's add two more influential figures who shaped the modern era of computing.
 Instructions:
@@ -117,4 +117,16 @@ When you have completed all assignments and answered all of the "Report Status" 
 A link to your public Digital-History-Notebook repository.
 A screenshot of your repository's commit history on GitHub. To find this, navigate to your repository, click the "commits" link near the top right, and take a screenshot of the page.
 Be sure to answer the questions above as well.
+
+
+## Timeline: The Rise of The Internet
+
+- 1969 - APRANET is created.
+- 1973 - TCP/IP is designed.
+- 1983 - TCP/IP becomes the standard for APERNET.
+- 1989 - Tim Burners-Lee proposes the World Wide Web.
+- 1991 - The World Wide Web is made pubilcly available.
+- 1993 - The Mosiac web browser is released.
+- 1998 - Google is founded.
+
 
